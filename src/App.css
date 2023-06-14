@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  height: 100px;
+}
+
+.button {
+  margin-top: 50px;
+  align-self: center;
+}
+
+.card {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 4% 4% 80% 3% 3%;
+  padding: 5px;
+}
